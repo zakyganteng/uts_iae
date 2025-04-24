@@ -1,3 +1,8 @@
+nama anggota kelompok
+Farhan Aditya Dharmawan (1204220075)
+Muchamad Zaky AUlia Darmawan (1204220064)
+IS 06/02
+
 # Laravel Microservices Setup
 
 Proyek ini terdiri dari tiga microservice terpisah menggunakan Laravel:
